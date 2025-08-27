@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Warning: [neoTRNG] Simulation-mode enabled (NO TRUE/PHYSICAL RANDOM)!
+Time: 0 ps  Iteration: 0  Process: /neoTRNG_tb/neoTRNG_inst/line__83  File: D:/SUMMER 2025/Verilog_INTERN/TRNG/TRNG.srcs/sources_1/new/TRNG.vhd
+Note: [neoTRNG] The neoTRNG (v3.3) - A Tiny and Platform-Independent True Random Number Generator, https://github.com/stnolting/neoTRNG
+Time: 0 ps  Iteration: 0  Process: /neoTRNG_tb/neoTRNG_inst/line__73  File: D:/SUMMER 2025/Verilog_INTERN/TRNG/TRNG.srcs/sources_1/new/TRNG.vhd
