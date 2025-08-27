@@ -42,4 +42,4 @@ The following diagram illustrates the high-level architecture of **neoTRNG**:
 
 ---
 
-## 📂 Repository Structure
+
