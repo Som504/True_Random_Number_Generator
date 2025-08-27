@@ -26,7 +26,7 @@ It leverages the inherent **phase noise** of ring oscillators to generate high-q
 The following diagram illustrates the high-level architecture of **neoTRNG**:
 
 ![Architecture](architecture.png)  
-*(Replace `architecture.png` with your actual architecture image file name in the repo)*
+
 
 ---
 
